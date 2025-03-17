@@ -9,6 +9,3 @@ This notebook provides a JAX/Flax implementation of GPT-2 architecture using pre
 - Feed Forward Network
 - Residual Connections & Layer Normalization
 - Text Generation Methods
-
-## nbviewer link
-https://nbviewer.org/github/s4piru/GPT2-JAX/blob/main/gpt2_jax.ipynb
